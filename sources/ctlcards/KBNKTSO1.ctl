@@ -1,6 +1,0 @@
- DSN SYSTEM(DBPG)
-     RUN PROGRAM(ZBNKEXT1) +
-         PLAN(MYPLAN) +
-         LIB('MFI01.MFIDEMO.LOADLIB') +
-         PARMS('B0004')
- END
